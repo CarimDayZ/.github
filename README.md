@@ -4,22 +4,7 @@ Come support growing the community through open source!
 Most of the conversation happens on the [Carim Discord](https://discord.gg/kdPnVu4).
 You can support the project by [donating](https://paypal.me/cnofafva). Thank you!
 
-## DayZ Servers
-
-```text
-Carim Loot+|Guns+|Party|Autorun|Airdrops
-178.63.43.16:2302
-Classic PvP oriented server with the best features from the best mods
-```
-
-```text
-Carim Deathmatch
-178.63.43.16:2402
-Spawn fully equipped with assault rifle and sniper
-Location changes periodically
-```
-
-Come join Carim, the servers dedicated to serving the community through open source contributions. The servers' configurations are automatically generated to be fun, fair, and balanced for whatever playstyle suits you. The servers are managed by an IT professional, ensuring stability and responsiveness to issues.
+Come join Carim, the project dedicated to serving the community through open source contributions.
 
 ## Open source projects
 
